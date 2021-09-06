@@ -27,4 +27,7 @@
     <!-- Battery Health enable -->
     <bool name="config_supportBatteryHealth">false</bool>
 
+    <!-- Smart Cutoff -->
+    <bool name="config_supportSmartCutoff">true</bool>
+
 </resources>
