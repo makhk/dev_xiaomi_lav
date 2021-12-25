@@ -43,8 +43,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR_PRODUCT_NAME := lavender
 
 # Fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ3A.210605.005 7349499 release-keys
+BUILD_FINGERPRINT := google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+BUILD_DESCRIPTION := raven-user 12 SQ1D.211205.016.A1 7957957 release-keys
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
